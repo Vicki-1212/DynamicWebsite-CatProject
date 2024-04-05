@@ -1,0 +1,44 @@
+.background {
+    background-color: black;
+    height:100vh;
+}
+
+.bulb_image {
+    height:200px;
+}
+
+.cat_image {
+    height: 300px;;
+}
+
+.switch-board{
+    background-color:darkgrey;
+    border-radius: 20px;
+    margin-left:500px;
+    margin-right:500px;
+    margin-top:50px;
+    padding-top:50px;
+    padding-bottom:30px;
+}
+.switch_status{
+    font-size: 30px;
+    font-weight: bold;
+}
+.switch_off{
+    background-color: grey;
+    height:30px;
+    width:70px;
+    color:aliceblue;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-right:20px;
+}
+.switch_on{
+    background-color: green;
+    height:30px;
+    width:70px;
+    color:aliceblue;
+    font-weight: bold;
+    border-radius: 10px;
+
+}
